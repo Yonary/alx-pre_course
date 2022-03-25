@@ -1,1 +1,1 @@
-my first readme
+I am doing my assignement
